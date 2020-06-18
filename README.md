@@ -4,3 +4,4 @@ hoge
 hoge
 test
 hello
+ok
